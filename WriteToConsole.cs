@@ -2,7 +2,8 @@
 
 public class WriteToConsole
 {
-	public Class1()
+	public WriteToConsole()
 	{
+		Console.WriteLine('Hello');
 	}
 }

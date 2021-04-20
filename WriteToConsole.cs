@@ -4,6 +4,6 @@ public class WriteToConsole
 {
 	public WriteToConsole()
 	{
-		Console.WriteLine('Hello');
+		Console.WriteLine('Hello World');
 	}
 }
